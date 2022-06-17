@@ -7,6 +7,7 @@ Gồm những tính năng (features): <br>
 * Radix sort
 * Merge sort
 * Quick sort
+
 Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
 * Con trỏ (pointer)
 * Con trỏ hàm (function pointer)
