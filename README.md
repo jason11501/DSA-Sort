@@ -8,13 +8,18 @@ Gồm những tính năng (features): <br>
 * Merge sort
 * Quick sort
 
+Ngoài ra, code còn sử dụng thêm một số kiến thức của Kĩ thuật lập trình: <br>
+* Con trỏ (pointer), khai báo con trỏ
+* Hàng đợi (Queue)
+* ..
+
 Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
 * Con trỏ (pointer)
 * Con trỏ hàm (function pointer)
 * Ghi đè hàm (overriding)
 * Lớp đối tượng (Class), Constructor và Destructor
-* Hàng đợi (Queue)
 * ..
+
 ## Install environments
 **Công cụ (Tool):**<br>
 * Xcode 13.3.1<br>
