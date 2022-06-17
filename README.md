@@ -17,7 +17,7 @@ Gồm những tính năng (features): <br>
 * C++
 
 ## Quick start
-Các bạn có thể clone repo này về. Open .xcpj và run ngay bằng câu lệnh dưới đây:
+Các bạn có thể clone repo này về. Open .xcodeproj và run ngay bằng câu lệnh dưới đây:
 ```
 ⌘ + R
 ```
