@@ -12,7 +12,8 @@ Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
 * Con trỏ (pointer)
 * Con trỏ hàm (function pointer)
 * Ghi đè hàm (overriding)
-* Lớp đối tượng (class), Constructor và Destructor
+* Lớp đối tượng (Class), Constructor và Destructor
+* Hàng đợi (Queue)
 * ..
 ## Install environments
 **Công cụ (Tool):**<br>
