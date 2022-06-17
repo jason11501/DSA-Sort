@@ -14,7 +14,6 @@ Ngoài ra, code còn sử dụng thêm một số kiến thức của Kĩ thuậ
 * ..
 
 Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
-* Con trỏ (pointer)
 * Con trỏ hàm (function pointer)
 * Ghi đè hàm (overriding)
 * Lớp đối tượng (Class), Constructor và Destructor
