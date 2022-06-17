@@ -8,6 +8,10 @@ Gồm những tính năng (features): <br>
 * Merge sort
 * Quick sort
 
+Ngoài ra, code còn sử dụng thêm một số kiến thức của Nhập môn lập trình: <br>
+* Đọc, ghi file (Read, write)
+* ..
+
 Ngoài ra, code còn sử dụng thêm một số kiến thức của Kĩ thuật lập trình: <br>
 * Con trỏ (pointer), khai báo con trỏ
 * Hàng đợi (Queue)
