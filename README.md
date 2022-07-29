@@ -1,4 +1,4 @@
-# Data structure- Cấu trúc dữ liệu và giải thuật -lab03
+# Data structure- Cấu trúc dữ liệu và giải thuật -lab 03
 # Ứng dụng sort với Array
 Gồm những tính năng (features): <br>
 * Bubble sort
